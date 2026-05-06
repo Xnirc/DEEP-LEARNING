@@ -24,7 +24,13 @@ Here is a breakdown of the uploaded notebooks and what they cover:
 - **Language**: Python 3.x
 - **Core Libraries**: NumPy, Pandas, Matplotlib
 - **Environment**: Jupyter Notebook
-
+####
+## GAN----------------------------------------
+  “I built a CNN model for binary classification (real vs fake images).
+I used PyTorch with BCEWithLogitsLoss for stable training.
+Images were resized and normalized.
+Model consists of convolution, pooling, and fully connected layers.
+Training was done using Adam optimizer, and performance evaluated using accuracy and loss curves.”
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
